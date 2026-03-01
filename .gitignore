@@ -1,0 +1,14 @@
+# Ignore SonarScanner
+sonar-scanner-*
+
+# Ignore Dependency Check
+dependency-check/
+
+# Ignore databases
+*.mv.db
+
+# Ignore executables
+*.exe
+
+# Ignore Python cache
+__pycache__/
